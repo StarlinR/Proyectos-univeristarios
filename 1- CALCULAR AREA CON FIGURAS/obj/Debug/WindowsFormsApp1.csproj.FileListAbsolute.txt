@@ -1,0 +1,18 @@
+c:\users\starlinr\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+c:\users\starlinr\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\starlinr\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\starlinr\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+c:\users\starlinr\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\starlinr\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\starlinr\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\starlinr\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\starlinr\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\StarlinR\Documents\PROYECTOS\practica final POO\programas\1- CALCULAR AREA CON FIGURAS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\StarlinR\Documents\PROYECTOS\practica final POO\programas\1- CALCULAR AREA CON FIGURAS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\StarlinR\Documents\PROYECTOS\practica final POO\programas\1- CALCULAR AREA CON FIGURAS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\StarlinR\Documents\PROYECTOS\practica final POO\programas\1- CALCULAR AREA CON FIGURAS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\StarlinR\Documents\PROYECTOS\practica final POO\programas\1- CALCULAR AREA CON FIGURAS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\StarlinR\Documents\PROYECTOS\practica final POO\programas\1- CALCULAR AREA CON FIGURAS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\StarlinR\Documents\PROYECTOS\practica final POO\programas\1- CALCULAR AREA CON FIGURAS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\StarlinR\Documents\PROYECTOS\practica final POO\programas\1- CALCULAR AREA CON FIGURAS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\StarlinR\Documents\PROYECTOS\practica final POO\programas\1- CALCULAR AREA CON FIGURAS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
